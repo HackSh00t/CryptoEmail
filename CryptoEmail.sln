@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoEmail", "CryptoEmail\CryptoEmail.csproj", "{1A64A378-0E25-44A0-9AFC-B542B767F3E2}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CryptoEmail_Installer", "CryptoEmail_Installer\CryptoEmail_Installer.vdproj", "{97B8E0EB-72CB-494A-BE44-3DF1D1982C17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{1A64A378-0E25-44A0-9AFC-B542B767F3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A64A378-0E25-44A0-9AFC-B542B767F3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A64A378-0E25-44A0-9AFC-B542B767F3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B8E0EB-72CB-494A-BE44-3DF1D1982C17}.Debug|Any CPU.ActiveCfg = Debug
+		{97B8E0EB-72CB-494A-BE44-3DF1D1982C17}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
